@@ -1,4 +1,5 @@
+  <p align="center">
 
- 
-  ![Snake animation](https://github.com/DavyAndrade/DavyAndrade/blob/output/github-contribution-grid-snake.svg)
- 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DavyAndrade&theme=2077) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DavyAndrade&theme=2077)
+</p>
