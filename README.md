@@ -1,5 +1,8 @@
-  <p align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DavyAndrade&theme=2077) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DavyAndrade&theme=2077)
-</p>
+<div>
+    <a href="https://github.com/DavyAndrade">
+        <img height="157em"
+            src="https://github-readme-stats.vercel.app/api?username=DavyAndrade&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+        <img height="157em"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavyAndrade&layout=compact&langs_count=7&theme=dark" />
+</div>
