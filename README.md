@@ -1,4 +1,9 @@
-## Hi there 👋
+<p align="center">
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DavyAndrade&theme=2077) 
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DavyAndrade&theme=2077)
+</p>
+
+
 
 <!--
 **DavyAndrade/DavyAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
