@@ -1,6 +1,5 @@
 <p align="center">
-![DavyAndrade's Stats](https://github-readme-stats.vercel.app/api?username=DavyAndrade&theme=dark&show_icons=true&hide_border=false&count_private=false)
-![DavyAndrade's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavyAndrade&theme=dark&show_icons=true&hide_border=false&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DavyAndrade&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DavyAndrade&theme=2077)
 </p>
 
 
