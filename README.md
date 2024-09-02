@@ -8,7 +8,7 @@ Tenho hobbies principalmente de jogar e programar quando tenho tempo livre! Atua
 
 # Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=linkedin)](https://www.linkedin.com/in/davy-andrade-dev/) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=github)](https://github.com/DavyAndrade) [![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=whatsapp)](https://wa.me/55+21+991664923) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:davy.dev23@gmail.com) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-000?style=for-the-badge&logo=HackerRank&logoColor=HackerRank)](https://hackerrank.com/profile/@davyandrade)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=linkedin)](https://www.linkedin.com/in/davy-andrade-dev/) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=github)](https://github.com/DavyAndrade) [![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=whatsapp)](https://wa.me/5521991664923) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:davy.dev23@gmail.com) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-000?style=for-the-badge&logo=HackerRank&logoColor=HackerRank)](https://hackerrank.com/profile/@davyandrade)
 
 # Habilidades
 
