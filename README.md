@@ -17,6 +17,6 @@ Tenho hobbies principalmente de jogar e programar quando tenho tempo livre! Atua
 # GitHub Stats
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=DavyAndrade&theme=transparent&show_icons=true&bg_color=000&title_color=FFF&text_color=FFF&border_radius=10&locale=pt-br" height="150">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavyAndrade&theme=transparent&show_icons=true&hide_border=false&layout=compact&bg_color=000&title_color=FFF&text_color=FFF&border_radius=10&locale=pt-br" alt="Linguagens mais usadas" height="150">
+    <img src="https://github-readme-stats.vercel.app/api?username=DavyAndrade&theme=transparent&show_icons=true&bg_color=000&title_color=FFF&text_color=FFF&border_radius=10&locale=pt-br&count_private=true" height="150">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavyAndrade&theme=transparent&show_icons=true&hide_border=false&layout=compact&bg_color=000&title_color=FFF&text_color=FFF&border_radius=10&locale=pt-br&langs_count=16" alt="Linguagens mais usadas" height="150">
 </div>
