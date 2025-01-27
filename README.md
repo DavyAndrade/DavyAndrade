@@ -23,7 +23,6 @@
 ## Social Media
 
 <div>
-
     <a href="https://www.linkedin.com/in/davy-andrade" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"></a>
     <a href="https://github.com/DavyAndrade/" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt=GitHub"></a>
     <a href="https://wa.me/5521991664923" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
