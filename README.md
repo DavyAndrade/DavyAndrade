@@ -3,9 +3,14 @@
 - Front-end Developer. 🖥️
 - Reviewing HTML, CSS and JS. 📚
 
-## Skills
+## Languages and Frameworks
 
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=html5) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=css) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=typescript)
+<div>
+    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML">
+    <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" alt="CSS">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript">
+    <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React">
+</div>
 
 ## GitHub Stats
 
@@ -14,6 +19,11 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavyAndrade&theme=transparent&show_icons=true&hide_border=false&layout=compact&bg_color=000&title_color=FFF&text_color=FFF&border_radius=10&locale=pt-br&langs_count=16" alt="Linguagens mais usadas" height="150">
 </div>
 
-## Social
+## Social Media
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=linkedin)](https://www.linkedin.com/in/davy-andrade/) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=github)](https://github.com/DavyAndrade) [![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=whatsapp)](https://wa.me/5521991664923) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:davy.dev23@gmail.com) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-000?style=for-the-badge&logo=HackerRank&logoColor=HackerRank)](https://hackerrank.com/profile/@davyandrade)
+<div>
+    <a href="https://www.linkedin.com/in/davy-andrade" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"></a>
+    <a href="https://github.com/DavyAndrade/" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt=GitHub"></a>
+    <a href="https://wa.me/5521991664923" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+    <a href="mailto:davy.dev23@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"></a>
+</div>
