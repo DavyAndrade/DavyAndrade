@@ -1,7 +1,7 @@
 ## Hello, my name is Davy!
 
 - Front-end Developer. 🖥️
-- Reviewing HTML, CSS and JS
+- Reviewing HTML, CSS and JS. 📚
 
 ## Skills
 
