@@ -25,6 +25,6 @@
 ## GitHub Stats
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=DavyAndrade&theme=transparent&show_icons=true&bg_color=000&title_color=FFF&text_color=FFF&border_radius=10&count_private=true" height="150">
+    <img src="https://github-readme-stats.vercel.app/api?username=DavyAndrade&theme=transparent&show_icons=true&bg_color=000&title_color=FFF&text_color=FFF&border_radius=10&count_private=true&include_all_commits=true" height="150">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavyAndrade&theme=transparent&show_icons=true&hide_border=false&layout=compact&bg_color=000&title_color=FFF&text_color=FFF&border_radius=10&langs_count=16" alt="Linguagens mais usadas" height="150">
 </div>
