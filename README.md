@@ -6,15 +6,15 @@
 ## Languages and Frameworks
 
 <div>
-    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="html Logo">
-    <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" alt="css Logo">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="javascript Logo">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="typescript Logo">
-    <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="react Logo">
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="java Logo">
-    <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="c Logo">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="mysql Logo">
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" alt="php Logo">
+    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="html logo">
+    <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" alt="css logo">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="javascript logo">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="typescript logo">
+    <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="react logo">
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="java logo">
+    <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="c logo">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="mysql logo">
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" alt="php logo">
 </div>
 
 ## Social Media
