@@ -1,7 +1,9 @@
 ## Hello, my name is Davy!
 
 - Front-end Developer. 🖥️
-- Reviewing HTML, CSS and JS. 📚
+- Game enthusiast. 🎮
+- I like to play RPG. 🎲
+- Java might not be so bad after all. 🤓
 
 ## Technologies Stack
 
