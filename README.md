@@ -12,13 +12,15 @@
 
 ---
 
-### 🛠️ Linguagens e Ferramentas
+### 🛠️ Linguagens e Ferramentas</h2>
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwindcss,bootstrap,c,python,java,php,mysql,git,github,discordjs&perline=10)](https://github.com/DavyAndrade)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwindcss,bootstrap,c,python,java,php,mysql,git,github,discordjs&perline=8)](https://github.com/DavyAndrade)
 
 ---
 
 ### 📱 Conecte-se Comigo
+
+Sinta-se livre para se conectar comigo nas opções abaixo:
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/davy-andrade)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:davyandrade.dev@gmail.com)
@@ -32,10 +34,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavyAndrade&layout=compact&title_color=00ff99&text_color=ffffff&bg_color=0d1117" alt="Linguagens mais usadas" height="150">
 </div>
 
-<br>
-
 ---
-
-<br>
 
 <p align="center">Feito com ❤️ por Davy Andrade</p>
