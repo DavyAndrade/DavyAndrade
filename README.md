@@ -14,7 +14,7 @@
 
 ### 🛠️ Linguagens e Ferramentas</h2>
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwindcss,bootstrap,c,python,java,php,mysql,git,github,discordjs&perline=8)](https://github.com/DavyAndrade)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,sass,tailwind,bootstrap,c,python,java,php,mysql,postgres,git,github,discordjs&perline=8)](https://github.com/DavyAndrade)
 
 ---
 
