@@ -5,9 +5,8 @@
 - Sou um **desenvolvedor front-end** apaixonado por criar interfaces modernas e funcionais.
 - Estou cursando Análise e Desenvolvimento de Sistemas na FAETERJ-Rio.
 - Sou do Rio de Janeiro, Brasil.
-- Consolidando minhas habilidades em JavaScript.
 - Sou um entusiasta de Jogos e RPG.
-- Atualmente estou desenvolvendo a [FitCheck](https://github.com/DavyAndrade/FitCheck).
+- Atualmente estou desenvolvendo a [FitCheck](https://github.com/DavyAndrade/FitCheck) em Vanilla.
 - Desenvolvendo meu portfólio pessoal.
 
 ---
