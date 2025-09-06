@@ -6,7 +6,7 @@
 - Estou cursando Análise e Desenvolvimento de Sistemas na FAETERJ-Rio.
 - Sou do Rio de Janeiro, Brasil.
 - Sou um entusiasta de Jogos e RPG.
-- Atualmente estou desenvolvendo a [FitCheck](https://github.com/DavyAndrade/FitCheck) em Vanilla.
+- Confira meu projeto finalizado recentemente: [FitCheck](https://github.com/DavyAndrade/FitCheck).
 - Desenvolvendo meu portfólio pessoal.
 
 ---
