@@ -8,6 +8,7 @@
 - Sou um entusiasta de Jogos e RPG.
 - Confira meu projeto finalizado recentemente: [FitCheck](https://github.com/DavyAndrade/FitCheck).
 - Desenvolvendo meu portfólio pessoal.
+- Atualmente estou aprendendo Django. 
 
 ---
 
