@@ -8,13 +8,13 @@
 - Sou um entusiasta de Jogos e RPG.
 - Confira meu projeto finalizado recentemente: [FitCheck](https://github.com/DavyAndrade/FitCheck).
 - Desenvolvendo meu portfólio pessoal.
-- Atualmente estou aprendendo Django. 
+- Atualmente estou aprendendo Flutter. 
 
 ---
 
 ### 🛠️ Linguagens e Ferramentas
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,react,tailwind,bootstrap,c,python,django,java,php,mysql,postgres,git,github,discordjs&perline=8)](https://github.com/DavyAndrade)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,react,tailwind,bootstrap,c,python,java,php,mysql,postgres,git,github,discordjs&perline=8)](https://github.com/DavyAndrade)
 
 ---
 
