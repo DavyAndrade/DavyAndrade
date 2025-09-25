@@ -6,7 +6,7 @@
 - Estou cursando Análise e Desenvolvimento de Sistemas na FAETERJ-Rio.
 - Sou do Rio de Janeiro, Brasil.
 - Sou um entusiasta de Jogos e RPG.
-- Confira meu projeto finalizado recentemente: [FitCheck](https://github.com/DavyAndrade/FitCheck).
+- Confira meu projeto finalizado recentemente: [TaskFlow](https://github.com/DavyAndrade/TaskFlow).
 - Desenvolvendo meu portfólio pessoal.
 - Atualmente estou aprendendo Flutter. 
 
