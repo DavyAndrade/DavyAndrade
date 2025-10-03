@@ -37,12 +37,3 @@ Sinta-se livre para se conectar comigo nas opções abaixo:
 ---
 
 <p align="center">Feito com ❤️ por Davy Andrade</p>
-    "image": "",
-    "techs": [],
-    "deploy": "",
-    "highlighted": false
-  }
-]
-}
-GitFolio:end -->
-  
