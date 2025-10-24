@@ -6,9 +6,8 @@
 - Estou cursando Análise e Desenvolvimento de Sistemas na FAETERJ-Rio.
 - Sou do Rio de Janeiro, Brasil.
 - Sou um entusiasta de Jogos e RPG.
-- Confira meu projeto finalizado recentemente: [TaskFlow](https://github.com/DavyAndrade/TaskFlow).
-- Desenvolvendo meu portfólio pessoal.
-- Atualmente estou aprendendo Flutter. 
+- Atualmente estou aprendendo Flutter para criação de aplicações multi-plataformas.
+- Veja meu [Portfólio](https://davyandrade-portfolio.netlify.app) feito em React e Tailwind.
 
 ---
 
