@@ -30,7 +30,7 @@ Sinta-se livre para se conectar comigo nas opções abaixo:
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=DavyAndrade&show_icons=true&theme=github_dark&title_color=00ff99&icon_color=00ff99&text_color=ffffff" alt="Status do GitHub" height="150">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavyAndrade&layout=compact&title_color=00ff99&text_color=ffffff&bg_color=0d1117&hide=c,jupyter%20notebook,java" alt="Linguagens mais usadas" height="150">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavyAndrade&layout=compact&title_color=00ff99&text_color=ffffff&bg_color=0d1117&hide=c,jupyter%20notebook,java,portugol" alt="Linguagens mais usadas" height="150">
 </div>
 
 ---
