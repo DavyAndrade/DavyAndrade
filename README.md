@@ -13,7 +13,7 @@
 
 ### 🛠️ Linguagens e Ferramentas
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,python,java,php,git,github,npm,yarn,tailwind,react,vue,vite,typescript,vercel,netlify,flutter&perline=9)](https://github.com/DavyAndrade)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,dart,python,java,php,git,github,npm,yarn,pnpm,tailwind,react,vue,vite,nextjs,vercel,netlify,flutter&perline=9)](https://github.com/DavyAndrade)
 
 ---
 
