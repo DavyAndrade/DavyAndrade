@@ -11,9 +11,26 @@
 
 ---
 
-### 🛠️ Linguagens e Ferramentas
+### 💻 Linguagens
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,dart,python,java,php,git,github,npm,yarn,pnpm,tailwind,react,vue,vite,nextjs,vercel,netlify,flutter&perline=9)](https://github.com/DavyAndrade)
+[![Linguagens](https://skillicons.dev/icons?i=html,css,js,ts,dart,python,java,php,c&perline=9)](https://github.com/DavyAndrade)
+
+### ⚛️ Frameworks
+
+[![Frameworks](https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,flutter&perline=9)](https://github.com/DavyAndrade)
+
+### 🛠️ Build Tools & Dev Tools
+
+[![Build&DevTools](https://skillicons.dev/icons?i=vite,vitest,npm,yarn,pnpm&perline=9)](https://github.com/DavyAndrade)
+
+
+### ☁️ Deploy & Hospedagem
+
+[![Deploy](https://skillicons.dev/icons?i=vercel,netlify&perline=9)](https://github.com/DavyAndrade)
+
+### 🔧 Controle de Versão
+
+[![ControleVersao](https://skillicons.dev/icons?i=git,github&perline=9)](https://github.com/DavyAndrade)
 
 ---
 
