@@ -40,8 +40,9 @@ Sou um **desenvolvedor front-end** apaixonado por criar interfaces modernas e fu
 ## 📊 Estatísticas do GitHub
 
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=DavyAndrade&show_icons=true&theme=github_dark&title_color=00ff99&icon_color=00ff99&text_color=ffffff" alt="Status do GitHub" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=DavyAndrade&show_icons=true&theme=github_dark&title_color=00ff99&icon_color=00ff99&text_color=ffffff&rank_icon=github" alt="Status do GitHub" height="165">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavyAndrade&layout=compact&title_color=00ff99&text_color=ffffff&bg_color=0d1117&hide=c,jupyter%20notebook,java,portugol" alt="Linguagens mais usadas" height="165">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DavyAndrade&theme=chartreuse-dark&color=00FF00&hide_title=true&area=true&area_color=00FF00&line=00FF00&point=00FF00&bg_color=0D1117"/>
 </div>
 
 ---
