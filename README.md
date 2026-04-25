@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">Front-end developer passionate about creating modern and functional interfaces. Currently studying Systems Analysis and Development at FAETERJ-Rio and expanding skills with Flutter for multi-platform development.</p>
+<p align="center">Front-end developer passionate about creating modern and functional interfaces. Currently studying Systems Analysis and Development at FAETERJ-Rio and expanding skills with Flutter for multi-platform development. Actually learning how to work with Agents, MCP and Skills.</p>
 <p align="center">📍 Rio de Janeiro, Brazil · 🎮 Gaming & RPG enthusiast</p>
 
 ###
