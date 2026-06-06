@@ -39,7 +39,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,dart,python,java,php,c,react,vue,nextjs,tailwind,sass,flutter,nodejs,express,discordjs,mysql,postgres,sqlite,vite,vitest,npm,yarn,pnpm,bun,git,github,linux,windows,bash,vercel,netlify&perline=10" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,dart,python,java,php,c,react,vue,nextjs,astro,tailwind,sass,flutter,nodejs,express,discordjs,mysql,postgres,sqlite,vite,vitest,npm,yarn,pnpm,bun,git,github,linux,windows,bash,vercel,netlify&perline=10" alt="tech stack" />
 </div>
 
 ###
