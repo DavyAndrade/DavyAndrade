@@ -1,12 +1,25 @@
 <br clear="both">
 
-<div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&reversal=false&text=Davy%20Andrade&fontSize=70&fontColor=00ff00&fontAlign=50&fontAlignY=40&rotate=0&stroke=-&animation=fadeIn&desc=Front-end%20Developer&descSize=20&descAlign=50&descAlignY=0&textBg=false&theme=tokyonight"  />
-</div>
+```text
+██████╗  █████╗ ██╗   ██╗██╗   ██╗     █████╗ ███╗   ██╗██████╗ ██████╗  █████╗ ██████╗ ███████╗       
+██╔══██╗██╔══██╗██║   ██║╚██╗ ██╔╝    ██╔══██╗████╗  ██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝       
+██║  ██║███████║██║   ██║ ╚████╔╝     ███████║██╔██╗ ██║██║  ██║██████╔╝███████║██║  ██║█████╗         
+██║  ██║██╔══██║╚██╗ ██╔╝  ╚██╔╝      ██╔══██║██║╚██╗██║██║  ██║██╔══██╗██╔══██║██║  ██║██╔══╝         
+██████╔╝██║  ██║ ╚████╔╝    ██║       ██║  ██║██║ ╚████║██████╔╝██║  ██║██║  ██║██████╔╝███████╗       
+╚═════╝ ╚═╝  ╚═╝  ╚═══╝     ╚═╝       ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝       
+                                                                                                       
+███████╗██╗   ██╗██╗     ██╗     ███████╗████████╗ █████╗  ██████╗██╗  ██╗    ██████╗ ███████╗██╗   ██╗
+██╔════╝██║   ██║██║     ██║     ██╔════╝╚══██╔══╝██╔══██╗██╔════╝██║ ██╔╝    ██╔══██╗██╔════╝██║   ██║
+█████╗  ██║   ██║██║     ██║     ███████╗   ██║   ███████║██║     █████╔╝     ██║  ██║█████╗  ██║   ██║
+██╔══╝  ██║   ██║██║     ██║     ╚════██║   ██║   ██╔══██║██║     ██╔═██╗     ██║  ██║██╔══╝  ╚██╗ ██╔╝
+██║     ╚██████╔╝███████╗███████╗███████║   ██║   ██║  ██║╚██████╗██║  ██╗    ██████╔╝███████╗ ╚████╔╝ 
+╚═╝      ╚═════╝ ╚══════╝╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝    ╚═════╝ ╚══════╝  ╚═══╝  
+                                                                                                       
+```
 
 ###
 
-<p align="center">Front-end developer passionate about creating modern and functional interfaces. Currently studying Systems Analysis and Development at FAETERJ-Rio and expanding skills with Flutter for multi-platform development. Actually learning how to work with Agents, MCP and Skills.</p>
+<p align="center">Fullstack developer passionate about creating modern and functional interfaces with Agents, MCP and Skills. Currently studying Systems Analysis and Development at FAETERJ-Rio and expanding skills with Flutter for multi-platform development. Working with R&D at FuzzyLab, PROCC (FIOCRUZ) and CENABIO (UFRJ).</p>
 <p align="center">📍 Rio de Janeiro, Brazil · 🎮 Gaming & RPG enthusiast</p>
 
 ###
