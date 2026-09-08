@@ -24,12 +24,26 @@
 
 ###
 
-<h2>🚀 Tech & Tools</h2>
+<h2>🛠️ Tech Stack</h2>
 
 ###
 
+<h3>Languages</h3>
+
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,dart,python,java,php,c,react,vue,nextjs,astro,tailwind,sass,flutter,nodejs,express,discordjs,mysql,postgres,sqlite,vite,vitest,npm,pnpm,bun,git,github,linux,docker,bash,vercel,netlify&perline=10" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,dart,python,java,php,c&perline=9" alt="tech stack" />
+</div>
+
+<h3>Frameworks, Libraries and Databases</h3>
+
+<div>
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,astro,tailwind,sass,flutter,nodejs,express,discordjs,mysql,postgres,sqlite,vite,vitest&perline=9" alt="tech stack" />
+</div>
+
+<h3>DevOps & Tools</h3>
+
+<div>
+  <img src="https://skillicons.dev/icons?i=npm,pnpm,bun,git,github,linux,docker,bash,vercel,netlify&perline=9" alt="tech stack" />
 </div>
 
 ###
