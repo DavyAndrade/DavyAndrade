@@ -1,33 +1,13 @@
-<br>
-
-```text
-┌───────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│                                                                                                           │
-│     ██████╗  █████╗ ██╗   ██╗██╗   ██╗     █████╗ ███╗   ██╗██████╗ ██████╗  █████╗ ██████╗ ███████╗      │
-│     ██╔══██╗██╔══██╗██║   ██║╚██╗ ██╔╝    ██╔══██╗████╗  ██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝      │
-│     ██║  ██║███████║██║   ██║ ╚████╔╝     ███████║██╔██╗ ██║██║  ██║██████╔╝███████║██║  ██║█████╗        │
-│     ██║  ██║██╔══██║╚██╗ ██╔╝  ╚██╔╝      ██╔══██║██║╚██╗██║██║  ██║██╔══██╗██╔══██║██║  ██║██╔══╝        │
-│     ██████╔╝██║  ██║ ╚████╔╝    ██║       ██║  ██║██║ ╚████║██████╔╝██║  ██║██║  ██║██████╔╝███████╗      │
-│     ╚═════╝ ╚═╝  ╚═╝  ╚═══╝     ╚═╝       ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝      │
-│                                                                                                           │
-│  ███████╗██╗   ██╗██╗     ██╗     ███████╗████████╗ █████╗  ██████╗██╗  ██╗    ██████╗ ███████╗██╗   ██╗  │
-│  ██╔════╝██║   ██║██║     ██║     ██╔════╝╚══██╔══╝██╔══██╗██╔════╝██║ ██╔╝    ██╔══██╗██╔════╝██║   ██║  │
-│  █████╗  ██║   ██║██║     ██║     ███████╗   ██║   ███████║██║     █████╔╝     ██║  ██║█████╗  ██║   ██║  │
-│  ██╔══╝  ██║   ██║██║     ██║     ╚════██║   ██║   ██╔══██║██║     ██╔═██╗     ██║  ██║██╔══╝  ╚██╗ ██╔╝  │
-│  ██║     ╚██████╔╝███████╗███████╗███████║   ██║   ██║  ██║╚██████╗██║  ██╗    ██████╔╝███████╗ ╚████╔╝   │
-│  ╚═╝      ╚═════╝ ╚══════╝╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝    ╚═════╝ ╚══════╝  ╚═══╝    │
-│                                                                                                           │
-└───────────────────────────────────────────────────────────────────────────────────────────────────────────┘
-```
+<h1>Hello, I'm Davy Andrade! 👋</h1>
 
 ###
 
-<p align="center">Fullstack developer passionate about creating modern and functional interfaces with Agents, MCP and Skills. Currently studying Systems Analysis and Development at FAETERJ-Rio and expanding skills with Flutter for multi-platform development. Working with R&D at FuzzyLab, PROCC (FIOCRUZ) and CENABIO (UFRJ).</p>
-<p align="center">📍 Rio de Janeiro, Brazil · 🎮 Gaming & RPG enthusiast</p>
+<p>I'm a Fullstack developer passionate about creating modern and functional interfaces with Agents, MCP and Skills. Currently studying Systems Analysis and Development at FAETERJ-Rio and expanding skills with Flutter for multi-platform development. Working with R&D at FuzzyLab, PROCC (FIOCRUZ) and CENABIO (UFRJ).</p>
+<p>📍 Rio de Janeiro, Brazil · 🎮 Gaming & RPG enthusiast</p>
 
 ###
 
-<div align="center">
+<div>
   <a href="https://davyandrade-portfolio.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00aa00?style=for-the-badge&logo=googlechrome&logoColor=white" height="40" alt="portfolio" />
   </a>
@@ -44,35 +24,29 @@
 
 ###
 
-<div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=10&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
-</div>
+<h2>🚀 Tech & Tools</h2>
 
 ###
 
-<h2 align="center">🚀 Tech & Tools</h2>
-
-###
-
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,dart,python,java,php,c,react,vue,nextjs,astro,tailwind,sass,flutter,nodejs,express,discordjs,mysql,postgres,sqlite,vite,vitest,npm,pnpm,bun,git,github,linux,docker,bash,vercel,netlify&perline=10" alt="tech stack" />
 </div>
 
 ###
 
-<div align="center">
+<div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=10&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
 </div>
 
 ###
 
-<h2 align="center">📊 My Activity</h2>
+<h2>My Activity</h2>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<div>
     <div>
         <img src="https://github-readme-stats.vercel.app/api?username=DavyAndrade&show_icons=true&theme=github_dark&" alt="GitHub Stats" height="165">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavyAndrade&layout=compact&theme=github_dark&hide=c,jupyter%20notebook,java,portugol" alt="Most Used Languages" height="165">
